@@ -6,11 +6,7 @@
     "kategori": "Hoka bento",
     "harga": 28000,
     "deskripsi": "Nasi + salad + 1 ekkado + 3 egg Chiken.",
-<<<<<<< HEAD
-    "Gambar": "hemat1.png"
-=======
     "img": "hemat1.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 2,
@@ -18,11 +14,7 @@
     "kategori": "Hoka bento",
     "harga": 28000,
     "deskripsi": "Nasi + salad + 2 tori ball 2 egg chiken roll.",
-<<<<<<< HEAD
-    "Gambar": "Hemat2.png"
-=======
     "img": "hemat2.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 3,
@@ -30,11 +22,7 @@
     "kategori": "Hoka bento",
     "harga": 28000,
     "deskripsi": "Nasi + salad + 2 ebi furai + 2 egg chuken roll",
-<<<<<<< HEAD
-    "Gambar": "Hemat3.png"
-=======
     "img": "hemat3.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 4,
@@ -42,11 +30,7 @@
     "kategori": "Hoka bento",
     "harga": 28000,
     "deskripsi": "Nasi +  salad + 4 Shrimp Roll + tea.",
-<<<<<<< HEAD
-    "Gambar": "Hemat4.png"
-=======
     "img": "hemat4.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 5,
@@ -54,11 +38,7 @@
     "kategori": "Hoka bento",
     "harga": 34500,
     "deskripsi": "Nasi + salad 1 Ekkado + 3 Egg Chicken Roll + Acar + Cold Ocha.",
-<<<<<<< HEAD
-    "Gambar": "Set1.png"
-=======
     "img": "set1.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 6,
@@ -66,11 +46,7 @@
     "kategori": "Hoka bento",
     "harga": 34500,
     "deskripsi": "Nasi + 2 Tori Ball + 2 Egg Chicken Roll + Cold Ocha.",
-<<<<<<< HEAD
-    "Gambar": "Set2.png"
-=======
     "img": "set2.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 7,
@@ -78,11 +54,7 @@
     "kategori": "Hoka bento",
     "harga": 34500,
     "deskripsi": "Nasi + salad + Egg Chicken Roll + Shrimp Roll + Soup + Ocha/Aqua.",
-<<<<<<< HEAD
-    "Gambar": "Set3.png"
-=======
     "img": "set3.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 8,
@@ -90,11 +62,7 @@
     "kategori": "Hoka bento",
     "harga": 34500,
     "deskripsi": "Nasi + salad + 4 Shrimp roll + Cold Ocha.",
-<<<<<<< HEAD
-    "Gambar": "Set4.png"
-=======
     "img": "set4.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 9,
@@ -102,11 +70,7 @@
     "kategori": "Hoka bento",
     "harga": 56500,
     "deskripsi": "Nasi + Salad + Beef Yakiniku + 2 psc Shrimp roll + 1 roll + tori Ball.",
-<<<<<<< HEAD
-    "Gambar": "paketA.png"
-=======
     "img": "paketa.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 10,
@@ -114,11 +78,7 @@
     "kategori": "Hoka bento",
     "harga": 50000,
     "deskripsi": "Nasi + salad + Chiken Yakiniku + 2 pcs egg + chiken roll + 1 pcs ebi furai.",
-<<<<<<< HEAD
-    "Gambar": "paketB.png"
-=======
     "img": "paketb.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 11,
@@ -126,11 +86,7 @@
     "kategori": "Hoka bento",
     "harga": 56500,
     "deskripsi": "Nasi + salad + Beef teriyaki + 2 pcs shimp roll + 1 pcs tori ball.",
-<<<<<<< HEAD
-    "Gambar": "paketC.png"
-=======
     "img": "paketc.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 12,
@@ -138,11 +94,7 @@
     "kategori": "Drink",
     "harga": 20000,
     "deskripsi": "Aroma panggan hojicha berpadu lambut dengan susu creamy dalam 250 Ml kesegaran.",
-<<<<<<< HEAD
-    "Gambar": "hojicha.png"
-=======
     "img": "hojicha.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 13,
@@ -150,11 +102,7 @@
     "kategori": "Drink",
     "harga": 20000,
     "deskripsi": "Espresso dan susu creamy dalam botol 250 ML - nikmat, halus, dan praktis.",
-<<<<<<< HEAD
-    "Gambar": "coffeLatte.png"
-=======
     "img": "coffelatte.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 14,
@@ -162,11 +110,7 @@
     "kategori": "Drink",
     "harga": 20000,
     "deskripsi": "Espresso creamy berpadu manis hangatnya hanzelnut.",
-<<<<<<< HEAD
-    "Gambar": "Hanzelnut.png"
-=======
     "img": "hanzelnut.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 15,
@@ -174,11 +118,7 @@
     "kategori": "Drink", 
     "harga": 20000,
     "deskripsi": "Coklat premium dengan rasa creamy & mewah disetip tegukan.",
-<<<<<<< HEAD
-    "Gambar": "Royalechocolate.png"
-=======
     "img": "royalechocolate.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 16,
@@ -186,11 +126,7 @@
     "kategori": "Drink",
     "harga": 20000,
     "deskripsi": "Matcha creamy berpadu dengan segarnya berry - satu botol, tiga sensasi rasa.",
-<<<<<<< HEAD
-    "Gambar": "matcha-milk.png"
-=======
     "img": "matchamilk.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 17,
@@ -198,11 +134,7 @@
     "kategori": "Drink",
     "harga": 18000,
     "deskripsi": "Menggunkan biji kopi pilihan dengan rasa yang rich & bold.",
-<<<<<<< HEAD
-    "Gambar": "ganbatte.png"
-=======
     "img": "ganbatte.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 18,
@@ -210,11 +142,7 @@
     "kategori": "Drink",
     "harga": 35000,
     "deskripsi": "Nikmati kopi dingin dalam kemasan 500 ML",
-<<<<<<< HEAD
-    "Gambar": "Iced500-ml.png"
-=======
     "img": "iced500ml.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 19,
@@ -222,11 +150,7 @@
     "kategori": "Drink",
     "harga": 28000,
     "deskripsi": "Segarnya stroberi berpadu dengan konyaku jelly kenyal - bikin makin seru",
-<<<<<<< HEAD
-    "Gambar": "kooristrawberry.png"
-=======
     "img": "kooristrawberry.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 20,
@@ -234,11 +158,7 @@
     "kategori": "Drink",
     "harga": 28000,
     "deskripsi": "Nikmatnya coklat creamy dengan konyaku jelly kenyal - segar & seru disetiap tegukan",
-<<<<<<< HEAD
-    "Gambar": "koorichocolate.png"
-=======
     "img": "koorichocolate.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 21,
@@ -246,11 +166,7 @@
     "kategori": "Drink",
     "harga": 10000,
     "deskripsi": "Teh hijau khas jepang yang diseduh dengan sempurna laluu disajikan dingin",
-<<<<<<< HEAD
-    "Gambar": "Cold.png"
-=======
     "img": "cold.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 22,
@@ -258,11 +174,7 @@
     "kategori": "Drink",
     "harga": 19000,
     "deskripsi": "Perpaduan segar ocha jepang dan manisnya lyche - bikin hari mekin frash",
-<<<<<<< HEAD
-    "Gambar": "teaalychee.png"
-=======
     "img": "teaalychee.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 23,
@@ -270,11 +182,7 @@
     "kategori": "Hoka Noodles",
     "harga": 35000,
     "deskripsi": "Ramen kauh miso ala hokkau=ido dengan mie kenyal & topping lengkap.",
-<<<<<<< HEAD
-    "Gambar": "hokaidoRamenR.png"
-=======
     "img": "hokaidoramenr.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 24,
@@ -282,11 +190,7 @@
     "kategori": "Hoka Noodles",
     "harga": 45000,
     "deskripsi": "Porsi besar ramen miso hokkaido dengan topping melimpah - lebih kenyng, lebih puas.",
-<<<<<<< HEAD
-    "Gambar": "hokaidomiso.png"
-=======
     "img": "hokaidomiso.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 25,
@@ -294,11 +198,7 @@
     "kategori": "Hoka Noodles",
     "harga": 35000,
     "deskripsi": "Ramen kuah kaldu ayam creamy dengan mie kenyal & topping lengkap.",
-<<<<<<< HEAD
-    "Gambar": "paitanReguler.png"
-=======
     "img": "paitanreguler.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 26,
@@ -306,11 +206,7 @@
     "kategori": "Hoka Noodles",
     "harga": 45000,
     "deskripsi": "Porsi besar ramen kuah kaldu ayam creamy dengan topping lebih melimpah..",
-<<<<<<< HEAD
-    "Gambar": "paitan.png"
-=======
     "img": "paitanreguler.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 27,
@@ -318,11 +214,7 @@
     "kategori": "Hoka Noodles",
     "harga": 38000,
     "deskripsi": "Ramen kuah pedas gurih dengan mie kenyal & toppping lengkap.",
-<<<<<<< HEAD
-    "Gambar": "spacyRamenR.png"
-=======
     "img": "spacyramenr.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 28,
@@ -330,11 +222,7 @@
     "kategori": "Hoka Noodles",
     "harga": 48000,
     "deskripsi": "Porsii besar ramen kuah pedas gurih dengan topping lebih banyak.",
-<<<<<<< HEAD
-    "Gambar": "spicyRamen.png"
-=======
     "img": "spicyramen.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 29,
@@ -342,11 +230,7 @@
     "kategori": "Dessert",
     "harga": 19000,
     "deskripsi": "Puding lembut dengan rasa red velvet yang manis elegan.",
-<<<<<<< HEAD
-    "Gambar": "redvelvet.png"
-=======
     "img": "redvelvet.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 30,
@@ -354,11 +238,7 @@
     "kategori": "Dessert",
     "harga": 19000,
     "deskripsi": "Serunya puding lembut dengan rada bubble gum yang playful & unik.",
-<<<<<<< HEAD
-    "Gambar": "bubblegum.png"
-=======
     "img": "bubblegum.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 31,
@@ -366,11 +246,7 @@
     "kategori": "Dessert",
     "harga": 19000,
     "deskripsi": "Pudding lembut dengan kesegaran green tea ontentik ala jepang.",
-<<<<<<< HEAD
-    "Gambar": "greentea.png"
-=======
     "img": "greentea.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 32,
@@ -378,11 +254,7 @@
     "kategori": "Dessert",
     "harga": 21000,
     "deskripsi": "Pudding coklat lembut dengan saur coklat lumer.",
-<<<<<<< HEAD
-    "Gambar": "puddingcoklat.png"
-=======
     "img": "puddingcoklat.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 33,
@@ -390,11 +262,7 @@
     "kategori": "Dessert",
     "harga": 19000,
     "deskripsi": "Puding lembut dengan manis karamel klasik.",
-<<<<<<< HEAD
-    "Gambar": "caramelpuding.png"
-=======
     "img": "caramelpuding.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 34,
@@ -402,11 +270,7 @@
     "kategori": "Dessert",
     "harga": 19000,
     "deskripsi": "Pudding ungu lembut dengan rasa taro yang unik & manis ringan.",
-<<<<<<< HEAD
-    "Gambar": "taropuding.png"
-=======
     "img": "taropuding.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 35,
@@ -414,11 +278,7 @@
     "kategori": "Dessert",
     "harga": 19000,
     "deskripsi": "Pudding lembut segar dengan manis alami mangga.",
-<<<<<<< HEAD
-    "Gambar": "manggopudinng.png"
-=======
     "img": "manggopudinng.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 36,
@@ -426,11 +286,7 @@
     "kategori": "Dessert",
     "harga": 21000,
     "deskripsi": "Segarnya agar bening dengan sirup manis & es batu parut.",
-<<<<<<< HEAD
-    "Gambar": "essarang.png"
-=======
     "img": "essarang.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 37,
@@ -438,11 +294,7 @@
     "kategori": "Dessert",
     "harga": 20000,
     "deskripsi": "Kenyalnya biji delima mera dalam kuah santan segar.",
-<<<<<<< HEAD
-    "Gambar": "esmerah.png"
-=======
     "img": "esmerah.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   },
   {
     "id": 38,
@@ -450,11 +302,7 @@
     "kategori": "Dessert",
     "harga": 14000,
     "deskripsi": "Manis legit kacang merah dengan es serut yang menyegarkan.",
-<<<<<<< HEAD
-    "Gambar": "esogura.png"
-=======
     "img": "esogura.png"
->>>>>>> 5fe9374 (menambahkan folder dan file yang terhapus, menyempurnakan tampilan all menu, img logo agar tampil)
   }
 ]
 }
