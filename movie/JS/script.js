@@ -66,6 +66,14 @@ $('#search-input').on('keyup', function (e) {
 $('#movie-list').on('click', '.see-detail', function () {
   const imdbID = $(this).data('id');
 
+  $('#btn-close-detail').on('click', function () {
+  $('#modal-body').html('');
+  });
+
+$('#exampleModal').on('hidden.bs.modal', function () {
+  $('#modal-body').html('');
+  });
+
   $.ajax({
     url: 'https://www.omdbapi.com/',
     type: 'get',
@@ -76,15 +84,18 @@ $('#movie-list').on('click', '.see-detail', function () {
     },
     success: function (movie) {
       if (movie.Response === "True") {
+        $('#exampleModalLabel').text(movie.Title);
+
         $('#modal-body').html(`
           <div class="container-fluid">
             <div class="row">
               <div class="col-md-4">
                 <img src="${movie.Poster}" class="img-fluid" alt="${movie.Title}">
               </div>
+
               <div class="col-md-8">
                 <ul class="list-group">
-                  <li class="list-group-item"><strong>Title:</strong> ${movie.Title}</li>
+                  <li class="list-group-item"><strong></strong><h3> ${movie.Title} </h3> </li>
                   <li class="list-group-item"><strong>Released:</strong> ${movie.Released}</li>
                   <li class="list-group-item"><strong>Genre:</strong> ${movie.Genre}</li>
                   <li class="list-group-item"><strong>Director:</strong> ${movie.Director}</li>
