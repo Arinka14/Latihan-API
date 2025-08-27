@@ -66,6 +66,7 @@ $('#search-input').on('keyup', function (e) {
 $('#movie-list').on('click', '.see-detail', function () {
   const imdbID = $(this).data('id');
 
+<<<<<<< HEAD
   $('#btn-close-detail').on('click', function () {
   $('#modal-body').html('');
   });
@@ -74,6 +75,8 @@ $('#exampleModal').on('hidden.bs.modal', function () {
   $('#modal-body').html('');
   });
 
+=======
+>>>>>>> d3be2c1222fa4ee965fd696c886b4f0eef04c750
   $.ajax({
     url: 'https://www.omdbapi.com/',
     type: 'get',
@@ -84,18 +87,27 @@ $('#exampleModal').on('hidden.bs.modal', function () {
     },
     success: function (movie) {
       if (movie.Response === "True") {
+<<<<<<< HEAD
         $('#exampleModalLabel').text(movie.Title);
 
+=======
+>>>>>>> d3be2c1222fa4ee965fd696c886b4f0eef04c750
         $('#modal-body').html(`
           <div class="container-fluid">
             <div class="row">
               <div class="col-md-4">
                 <img src="${movie.Poster}" class="img-fluid" alt="${movie.Title}">
               </div>
+<<<<<<< HEAD
 
               <div class="col-md-8">
                 <ul class="list-group">
                   <li class="list-group-item"><strong></strong><h3> ${movie.Title} </h3> </li>
+=======
+              <div class="col-md-8">
+                <ul class="list-group">
+                  <li class="list-group-item"><strong>Title:</strong> ${movie.Title}</li>
+>>>>>>> d3be2c1222fa4ee965fd696c886b4f0eef04c750
                   <li class="list-group-item"><strong>Released:</strong> ${movie.Released}</li>
                   <li class="list-group-item"><strong>Genre:</strong> ${movie.Genre}</li>
                   <li class="list-group-item"><strong>Director:</strong> ${movie.Director}</li>
@@ -109,4 +121,8 @@ $('#exampleModal').on('hidden.bs.modal', function () {
       }
     }
   });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> d3be2c1222fa4ee965fd696c886b4f0eef04c750

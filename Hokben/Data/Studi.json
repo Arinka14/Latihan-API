@@ -1,0 +1,308 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "nama": "HOKA HEMAT 1",
+      "kategori": "Hoka Bento",
+      "harga": 28000,
+      "deskripsi": "Nasi + salad + 1 Ekkado + 3 Egg Chicken Roll.",
+      "img": "hemat1.png"
+    },
+    {
+      "id": 2,
+      "nama": "HOKA HEMAT 2",
+      "kategori": "Hoka Bento",
+      "harga": 28000,
+      "deskripsi": "Nasi + salad + 2 Tori Ball + 2 Egg Chicken Roll.",
+      "img": "hemat2.png"
+    },
+    {
+      "id": 3,
+      "nama": "HOKA HEMAT 3",
+      "kategori": "Hoka Bento",
+      "harga": 28000,
+      "deskripsi": "Nasi + salad + 2 Ebi Furai + 2 Egg Chicken Roll.",
+      "img": "hemat3.png"
+    },
+    {
+      "id": 4,
+      "nama": "HOKA HEMAT 4",
+      "kategori": "Hoka Bento",
+      "harga": 28000,
+      "deskripsi": "Nasi + salad + 4 Shrimp Roll + Tea.",
+      "img": "hemat4.png"
+    },
+    {
+      "id": 5,
+      "nama": "VALUE SET 1",
+      "kategori": "Hoka Bento",
+      "harga": 34500,
+      "deskripsi": "Nasi + salad + 1 Ekkado + 3 Egg Chicken Roll + Acar + Cold Ocha.",
+      "img": "set1.png"
+    },
+    {
+      "id": 6,
+      "nama": "VALUE SET 2",
+      "kategori": "Hoka Bento",
+      "harga": 34500,
+      "deskripsi": "Nasi + 2 Tori Ball + 2 Egg Chicken Roll + Cold Ocha.",
+      "img": "set2.png"
+    },
+    {
+      "id": 7,
+      "nama": "VALUE SET 3",
+      "kategori": "Hoka Bento",
+      "harga": 34500,
+      "deskripsi": "Nasi + salad + Egg Chicken Roll + Shrimp Roll + Soup + Ocha/Aqua.",
+      "img": "set3.png"
+    },
+    {
+      "id": 8,
+      "nama": "VALUE SET 4",
+      "kategori": "Hoka Bento",
+      "harga": 34500,
+      "deskripsi": "Nasi + salad + 4 Shrimp Roll + Cold Ocha.",
+      "img": "set4.png"
+    },
+    {
+      "id": 9,
+      "nama": "PAKET A",
+      "kategori": "Hoka Bento",
+      "harga": 56500,
+      "deskripsi": "Nasi + Salad + Beef Yakiniku + 2 pcs Shrimp Roll + 1 Egg Chicken Roll + 1 Tori Ball.",
+      "img": "paketa.png"
+    },
+    {
+      "id": 10,
+      "nama": "PAKET B",
+      "kategori": "Hoka Bento",
+      "harga": 50000,
+      "deskripsi": "Nasi + salad + Chicken Yakiniku + 2 pcs Egg Chicken Roll + 1 pcs Ebi Furai.",
+      "img": "paketb.png"
+    },
+    {
+      "id": 11,
+      "nama": "PAKET C",
+      "kategori": "Hoka Bento",
+      "harga": 56500,
+      "deskripsi": "Nasi + salad + Beef Teriyaki + 2 pcs Shrimp Roll + 1 pcs Tori Ball.",
+      "img": "paketc.png"
+    },
+    {
+      "id": 12,
+      "nama": "HOJICHA LATTE 250 ML",
+      "kategori": "Drink",
+      "harga": 20000,
+      "deskripsi": "Aroma panggang hojicha berpadu lembut dengan susu creamy dalam 250 ML kesegaran.",
+      "img": "hojicha.png"
+    },
+    {
+      "id": 13,
+      "nama": "COFFEE LATTE 250 ML",
+      "kategori": "Drink",
+      "harga": 20000,
+      "deskripsi": "Espresso dan susu creamy dalam botol 250 ML - nikmat, halus, dan praktis.",
+      "img": "coffelatte.png"
+    },
+    {
+      "id": 14,
+      "nama": "HAZELNUT LATTE 250 ML",
+      "kategori": "Drink",
+      "harga": 20000,
+      "deskripsi": "Espresso creamy berpadu manis hangatnya hazelnut.",
+      "img": "hazelnut.png"
+    },
+    {
+      "id": 15,
+      "nama": "ROYALE CHOCOLATE 250 ML",
+      "kategori": "Drink", 
+      "harga": 20000,
+      "deskripsi": "Cokelat premium dengan rasa creamy & mewah di setiap tegukan.",
+      "img": "royalechocolate.png"
+    },
+    {
+      "id": 16,
+      "nama": "MATCHA MILK BERRY 250 ML",
+      "kategori": "Drink",
+      "harga": 20000,
+      "deskripsi": "Matcha creamy berpadu dengan segarnya berry - satu botol, tiga sensasi rasa.",
+      "img": "matchamilk.png"
+    },
+    {
+      "id": 17,
+      "nama": "ICED COFFEE GANBATTE 250 ML",
+      "kategori": "Drink",
+      "harga": 18000,
+      "deskripsi": "Menggunakan biji kopi pilihan dengan rasa yang rich & bold.",
+      "img": "ganbatte.png"
+    },
+    {
+      "id": 18,
+      "nama": "ICED COFFEE MILK 500 ML",
+      "kategori": "Drink",
+      "harga": 35000,
+      "deskripsi": "Nikmati kopi dingin dalam kemasan 500 ML.",
+      "img": "iced500ml.png"
+    },
+    {
+      "id": 19,
+      "nama": "KOORI KONYAKU STRAWBERRY 500 ML",
+      "kategori": "Drink",
+      "harga": 28000,
+      "deskripsi": "Segarnya stroberi berpadu dengan konyaku jelly kenyal - bikin makin seru.",
+      "img": "kooristrawberry.png"
+    },
+    {
+      "id": 20,
+      "nama": "KOORI KONYAKU CHOCOLATE 500 ML",
+      "kategori": "Drink",
+      "harga": 28000,
+      "deskripsi": "Nikmatnya cokelat creamy dengan konyaku jelly kenyal - segar & seru di setiap tegukan.",
+      "img": "koorichocolate.png"
+    },
+    {
+      "id": 21,
+      "nama": "COLD OCHA",
+      "kategori": "Drink",
+      "harga": 10000,
+      "deskripsi": "Teh hijau khas Jepang yang diseduh dengan sempurna lalu disajikan dingin.",
+      "img": "cold.png"
+    },
+    {
+      "id": 22,
+      "nama": "OCHA LYCHEE TEA",
+      "kategori": "Drink",
+      "harga": 19000,
+      "deskripsi": "Perpaduan segar ocha Jepang dan manisnya lychee - bikin hari makin fresh.",
+      "img": "teaalychee.png"
+    },
+    {
+      "id": 23,
+      "nama": "HOKKAIDO MISO RAMEN REGULER",
+      "kategori": "Hoka Noodles",
+      "harga": 35000,
+      "deskripsi": "Ramen kuah miso ala Hokkaido dengan mie kenyal & topping lengkap.",
+      "img": "hokaidoramenr.png"
+    },
+    {
+      "id": 24,
+      "nama": "HOKKAIDO MISO RAMEN LARGE",
+      "kategori": "Hoka Noodles",
+      "harga": 45000,
+      "deskripsi": "Porsi besar ramen miso Hokkaido dengan topping melimpah - lebih kenyang, lebih puas.",
+      "img": "hokaidomiso.png"
+    },
+    {
+      "id": 25,
+      "nama": "TORI PAITAN RAMEN REGULER",
+      "kategori": "Hoka Noodles",
+      "harga": 35000,
+      "deskripsi": "Ramen kuah kaldu ayam creamy dengan mie kenyal & topping lengkap.",
+      "img": "paitanreguler.png"
+    },
+    {
+      "id": 26,
+      "nama": "TORI PAITAN RAMEN LARGE",
+      "kategori": "Hoka Noodles",
+      "harga": 45000,
+      "deskripsi": "Porsi besar ramen kuah kaldu ayam creamy dengan topping lebih melimpah.",
+      "img": "paitanlarge.png"
+    },
+    {
+      "id": 27,
+      "nama": "SPICY RAMEN REGULER",
+      "kategori": "Hoka Noodles",
+      "harga": 38000,
+      "deskripsi": "Ramen kuah pedas gurih dengan mie kenyal & topping lengkap.",
+      "img": "spicyramenr.png"
+    },
+    {
+      "id": 28,
+      "nama": "SPICY RAMEN LARGE",
+      "kategori": "Hoka Noodles",
+      "harga": 48000,
+      "deskripsi": "Porsi besar ramen kuah pedas gurih dengan topping lebih banyak.",
+      "img": "spicyramen.png"
+    },
+    {
+      "id": 29,
+      "nama": "SOFT PUDDING RED VELVET",
+      "kategori": "Dessert",
+      "harga": 19000,
+      "deskripsi": "Puding lembut dengan rasa red velvet yang manis elegan.",
+      "img": "redvelvet.png"
+    },
+    {
+      "id": 30,
+      "nama": "SOFT PUDDING BUBBLE GUM",
+      "kategori": "Dessert",
+      "harga": 19000,
+      "deskripsi": "Serunya puding lembut dengan rasa bubble gum yang playful & unik.",
+      "img": "bubblegum.png"
+    },
+    {
+      "id": 31,
+      "nama": "SOFT PUDDING GREEN TEA",
+      "kategori": "Dessert",
+      "harga": 19000,
+      "deskripsi": "Puding lembut dengan kesegaran green tea autentik ala Jepang.",
+      "img": "greentea.png"
+    },
+    {
+      "id": 32,
+      "nama": "PUDING COKELAT",
+      "kategori": "Dessert",
+      "harga": 21000,
+      "deskripsi": "Puding cokelat lembut dengan saus cokelat lumer.",
+      "img": "puddingcoklat.png"
+    },
+    {
+      "id": 33,
+      "nama": "SOFT CARAMEL PUDDING",
+      "kategori": "Dessert",
+      "harga": 19000,
+      "deskripsi": "Puding lembut dengan manis karamel klasik.",
+      "img": "caramelpuding.png"
+    },
+    {
+      "id": 34,
+      "nama": "SOFT TARO PUDDING",
+      "kategori": "Dessert",
+      "harga": 19000,
+      "deskripsi": "Puding ungu lembut dengan rasa taro yang unik & manis ringan.",
+      "img": "taropuding.png"
+    },
+    {
+      "id": 35,
+      "nama": "SOFT MANGO PUDDING",
+      "kategori": "Dessert",
+      "harga": 19000,
+      "deskripsi": "Puding lembut segar dengan manis alami mangga.",
+      "img": "mangopudding.png"
+    },
+    {
+      "id": 36,
+      "nama": "ES SARANG BURUNG",
+      "kategori": "Dessert",
+      "harga": 21000,
+      "deskripsi": "Segarnya agar bening dengan sirup manis & es batu parut.",
+      "img": "essarang.png"
+    },
+    {
+      "id": 37,
+      "nama": "ES MERAH DELIMA",
+      "kategori": "Dessert",
+      "harga": 20000,
+      "deskripsi": "Kenyalnya biji delima merah dalam kuah santan segar.",
+      "img": "esmerah.png"
+    },
+    {
+      "id": 38,
+      "nama": "ES OGURA",
+      "kategori": "Dessert",
+      "harga": 14000,
+      "deskripsi": "Manis legit kacang merah dengan es serut yang menyegarkan.",
+      "img": "esogura.png"
+    }
+  ]
+}
