@@ -65,7 +65,6 @@ $('#search-input').on('keyup', function (e) {
 
 $('#movie-list').on('click', '.see-detail', function () {
   const imdbID = $(this).data('id');
-
   $('#btn-close-detail').on('click', function () {
   $('#modal-body').html('');
   });
@@ -84,8 +83,9 @@ $('#exampleModal').on('hidden.bs.modal', function () {
     },
     success: function (movie) {
       if (movie.Response === "True") {
-        $('#exampleModalLabel').text(movie.Title);
 
+
+        $('#exampleModalLabel').text(movie.Title);
         $('#modal-body').html(`
           <div class="container-fluid">
             <div class="row">
@@ -93,6 +93,9 @@ $('#exampleModal').on('hidden.bs.modal', function () {
                 <img src="${movie.Poster}" class="img-fluid" alt="${movie.Title}">
               </div>
 
+              <div class="col-md-8">
+                <ul class="list-group">
+                  <li class="list-group-item"><strong></strong><h3> ${movie.Title} </h3> </li>
               <div class="col-md-8">
                 <ul class="list-group">
                   <li class="list-group-item"><strong></strong><h3> ${movie.Title} </h3> </li>
